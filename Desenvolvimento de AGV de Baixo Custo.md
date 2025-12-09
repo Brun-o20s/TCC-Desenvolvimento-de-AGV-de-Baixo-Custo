@@ -8,7 +8,7 @@
 
 // --- MAPEAMENTO DE HARDWARE (ESP32 DevKit V1) ---
 
-// Ponte H L298N - Motor A (Esquerdo)
+    // Ponte H L298N - Motor A (Esquerdo)
   const int IN1 = 27;  // GPIO 27
   const int IN2 = 26;  // GPIO 26
   const int ENA = 14;  // GPIO 14 (PWM)
